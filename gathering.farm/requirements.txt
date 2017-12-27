@@ -1,0 +1,23 @@
+
+Job Opportunity: Hiring an API Developer ~ Node.js, MongoDB, Swagger & Apigee
+We are looking for a freelance developer in order to build an API for public consumption; with Node.js, MongoDB, Swagger & Apigee.
+The API will provide people with access to a comprehensive database of Fresh Produce & their Varieties?—?it aims to become the go-to Wikipedia with all key information on Fresh Produce.
+Here are the three milestones for the project:-
+Phase One: Build a Database with Mongo/MongoLab
+Phase Two: Build a RESTful Produce API with Swagger
+Phase Three: Set up API management with Apigee and launch the API publicly
+To access more information please use the following credentials:
+username: public@gathering.farm
+password: D35h^ZµSgd
+DATABASE
+See Database Structure: 
+https://app.zohocreator.eu/zoho_info363/produce-api#Add_Produce
+API
+API Requirements:
+https://docs.google.com/document/d/13iMrTVfA15BP58FjfvzNrteKNT_MBz43XPdax54LJIw/edit?ts=5a4230dd
+Thank you for your time and consideration. I can be contacted on info@gathering.farm
+Kind regards,
+Francesca Tabor
+CEO
+Add comment
+
